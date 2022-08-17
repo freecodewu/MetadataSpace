@@ -112,7 +112,7 @@ export default function Home() {
       <Section>
         <Main>
           {/* <div className="title">NextBT Network</div>
-          <div className="desc">
+          <div className="desc">   
             Building the decentralized VPN to realize secure BT download. Built
             on the IPFS/Filecoin with Web3.0 way
           </div>
