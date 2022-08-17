@@ -1,4 +1,8 @@
-
+## Get Started
+    git clone  git@github.com:freecodewu/MetadataSpace.git
+    yarn & yarn start
+    
+[WebSite](http://18.141.182.144:8080/)
 ## Inspiration
 1. When developing metaverse applications,  making 3D models takes a lot of time==. 
 2. Many creators can use other creators' models to shorten the creation time.
