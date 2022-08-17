@@ -44,3 +44,4 @@ MetadataSpace can help the majority of creators save time when creating works，
 * Firstly, we will develop AI-assisted authoring tools and Improve UI and interaction flow.
 * Secondly, we will support more kinds of materials and support the search function.
 * Thirdly, we will support the extremely fast download function of large-size files with the development of the Filecoin retrieval network.
+
